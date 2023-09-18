@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
+
+ 
+
+body{
+
+   
+
+    justify-content: center;
+
+    align-items: center;
+
+    text-align: center;
+
+}
+
+.caixa1{
+
+ 
+}
+
+ 
+
+#mod{
+
+    font-family: 'Zen Tokyo Zoo', cursive;
+
+    font-size: 90px;
+
+    color: blueviolet
+
+   
+
+}
+
+ 
+
+ 
+
+ 
+
+.fonte-01{
+
+    font-size: 40px;
+
+    font-family: 'Oleo Script Swash Caps', serif;
+
+ 
+
+    color:blue
+
+ 
+
+}
+
+.fonte-02 {
+
+    font-size: 40px;
+
+    font-family: 'Bebas Neue', sans-serif;
+
+    color:rgba(47, 140, 247, 0.993)
+
+}
+
+ 
+
+ 
+
+.fonte-03{
+
+    font-size: 40px;
+
+    font-family: 'Rye', cursive;
+
+    color:rgb(47, 125, 241)
+
+}
+
+ 
+
+.fonte-04{
+
+    font-size: 40px;
+
+    font-family: 'Bungee Shade', cursive;
+
+    color:rgb(29, 180, 226)
+
+}
+
+.fonte-05{
+
+    font-size: 40px;
+
+    font-family: 'Space Mono', monospace;
+
+    color:rgb(87, 140, 189)
+
+}
+
+ 
